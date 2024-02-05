@@ -1,4 +1,5 @@
 token:
   expiration:
     time: 8640000
-  secret: mySecret_default
+  secret: mySecret_dev
+
