@@ -1,0 +1,4 @@
+token:
+  expiration:
+    time: 8640000
+  secret: mySecret
